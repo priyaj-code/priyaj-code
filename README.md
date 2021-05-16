@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 MSc Data Science | Data Analyst | Machine Learning Enthusiast | Avid Learner
  
 
-🌱 I’m currently exploring: Machine Learning
+🌱 **I’m currently exploring**: Machine Learning
 
-🔭 I’m currently working on : Machine Learning based projects
+🔭 **I’m currently working on**: Machine Learning based projects
 
-💬 Ask me about: Data , Machine Learning , Food Recepies , Jokes and a good playlist🎧
+💬 **Ask me about**: Data , Machine Learning , Food Recepies , Jokes and a good playlist🎧
 
-⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
+⚡ **Fun fact**: According to a recent survey, in the UK in 2015, Python overtook French to be the most popular language taught in primary schools. Out of 10, 6 parents preferred                their children to learn Python over French.
 
-💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
+💻 **Code carousel**: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : [Click to view](https://drive.google.com/file/d/1wP0hk-JMURvGQ9k6vY30DFzLBe_PMkPE/view?usp=sharing)
+📄 **Resume**: [Click to view](https://drive.google.com/file/d/1wP0hk-JMURvGQ9k6vY30DFzLBe_PMkPE/view?usp=sharing)
 
 ### Languages and Tools-
 
