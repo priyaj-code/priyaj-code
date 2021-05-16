@@ -42,17 +42,17 @@ MSc Data Science | Data Analyst | Machine Learning Enthusiast | Avid Learner
 ### Languages and Tools-
 
 
-| Python  Programming | Sklearn | Numpy | Pandas |
+| Python  Programming | Sci-kit learn | Numpy | Pandas |
 | :---: | :---: | :---: | :---: |
 
 
-| Matplotlib | Seaborn | R Programming | Statistics | 
+| Matplotlib | Seaborn | R Programming | Mathematics | 
 | :---: | :---: | :---: | :---: | 
 
-| Story Telling | Data Analysis and Viz | SQL | Data Wrangling | 
+| Story Telling | Data Analysis/Viz | SQL | Data Wrangling | 
 | :---: | :---: | :---: | :---: | 
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | 
+| Pycharm | Anaconda | GoogleColab | Jupyter Notebook | 
 | :---: | :---: | :---: | :---: | 
 
 
