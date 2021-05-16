@@ -46,7 +46,7 @@ MSc Data Science at University of Essex | Data Analyst | Machine Learning Enthus
 | :---: | :---: | :---: | :---: |
 
 
-| Matplotlib | Seaborn | R Programming | Mathematics | 
+| Matplotlib | Seaborn | Power BI | Mathematics | 
 | :---: | :---: | :---: | :---: | 
 
 | Story Telling | Data Analysis/Viz | SQL | Data Wrangling | 
