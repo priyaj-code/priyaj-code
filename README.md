@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 -->
 
-MSc Data Science | Data Analyst | Machine Learning Enthusiast | Avid Learner
+MSc Data Science at University of Essex | Data Analyst | Machine Learning Enthusiast | Avid Learner
  
 
 🌱 **I’m currently exploring**: Machine Learning
