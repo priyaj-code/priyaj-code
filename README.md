@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/priyaj-code/priyaj-code/blob/main/1.gif" width="360"/>
 
 <!--https://i.imgur.com/9GNZGLH.gif
 
